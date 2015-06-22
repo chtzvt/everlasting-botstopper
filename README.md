@@ -15,6 +15,8 @@ Stop spammers with your Lighttpd config!
 
  Check out http://blog.ctis.me/2015/05/blocking-bad-bots-in-3-easy-steps-in.html for some more information.
 
+Also included is a plaintext list of all referrers, user agents, and IP rnges blocked by the configuration file. This is useful if you want a more readable list, or if you intend to adapt this list to a different web server or software. 
+
 ## Installation
  Installation is simple, simply paste this into a file named spam.conf in /etc/lighttpd/, then,  in your lighttpd configuration, add the line: 
 
