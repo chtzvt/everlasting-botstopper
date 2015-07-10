@@ -95,6 +95,8 @@ worio.com
 zitebot
 coccoc
 coccoc.com
+Mnogosearch
+Synapse
 
 
 # SEARCH ENGINES
