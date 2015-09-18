@@ -15,7 +15,12 @@ best-seo-solution.com
 buy-cheap-online.info
 24x7-allrequestsallowed.com
 domainsigma.com
-
+video--production.com
+justprofit.xyz
+pizza-tycoon.com
+hundejo.com
+pizza-imperia.com
+buypillsorderonline.com
 
 # HTTP LIBRARIES
 curl
